@@ -56,7 +56,7 @@ npm run problem2
 The test cases are provided separately for easy verification.
 
 * **View the detailed Test Cases here:** [`/src/problem2/testcases.md`](src/problem2/testcases.md)
-* **Live Demo:** You can view a live demonstration of Problem 2's solution here: [`https://techteam-assignment.web.app`](https://techteam-assignment.web.app)
+* **Live Demo:** You can view a live demonstration of Problem 2's solution here: [`https://techteam.chiendezign.info`](https://techteam.chiendezign.info)
 
 #### Problem 3: Messy React
 
